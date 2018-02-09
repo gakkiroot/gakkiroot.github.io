@@ -1,0 +1,2 @@
+# gakkiroot.github.io
+Blog
